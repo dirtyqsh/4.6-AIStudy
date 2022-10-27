@@ -1,5 +1,3 @@
-from math import ceil
-
 num = float(input("Enter number: "))
 
 print(round(num, 2))
